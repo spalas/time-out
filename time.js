@@ -1,3 +1,5 @@
+// this  only for set time out function how to work
+
 function dosomesThing() {
     console.log('i am conding javascript')
 }
